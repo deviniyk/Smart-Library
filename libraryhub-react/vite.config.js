@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // (This must exactly match your GitHub repository name, case-sensitive.)
 export default defineConfig({
   plugins: [react()],
-  base: '/SmartLibrary/',
+  base: '/Smart-Library/',
 })
